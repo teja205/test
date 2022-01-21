@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.965" height="110.938" viewBox="0 0 111.965 110.938">
+  <g id="Group_383" data-name="Group 383" transform="translate(-754.038 -3327.199)">
+    <g id="Ellipse_70" data-name="Ellipse 70" transform="translate(754.038 3327.199)" fill="none" stroke="#27debf" stroke-width="2">
+      <ellipse cx="55.983" cy="55.469" rx="55.983" ry="55.469" stroke="none"/>
+      <ellipse cx="55.983" cy="55.469" rx="54.983" ry="54.469" fill="none"/>
+    </g>
+    <g id="lock_black_24dp" transform="translate(780.811 3351.811)">
+      <g id="Group_370" data-name="Group 370">
+        <path id="Path_145" data-name="Path 145" d="M0,0H57.982V57.982H0Z" fill="none"/>
+        <path id="Path_146" data-name="Path 146" d="M0,0H57.982V57.982H0Z" fill="none" opacity="0.87"/>
+      </g>
+      <path id="Path_147" data-name="Path 147" d="M37.823,17.912H35.407V13.08a12.08,12.08,0,0,0-24.159,0v4.832H8.832A4.846,4.846,0,0,0,4,22.743V46.9a4.846,4.846,0,0,0,4.832,4.832H37.823A4.846,4.846,0,0,0,42.655,46.9V22.743A4.846,4.846,0,0,0,37.823,17.912ZM16.08,13.08a7.248,7.248,0,0,1,14.5,0v4.832H16.08ZM37.823,46.9H8.832V22.743H37.823Zm-14.5-7.248A4.832,4.832,0,1,0,18.5,34.823,4.846,4.846,0,0,0,23.327,39.655Z" transform="translate(5.664 1.416)" fill="#27debf"/>
+    </g>
+  </g>
+</svg>

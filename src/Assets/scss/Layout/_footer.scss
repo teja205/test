@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Poppins:wght@100;200;300;400;500;600&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+.footer {
+  padding: 1rem 0;
+  position: relative;
+  background: #1E66E4;
+  height: 100%;
+  a{
+    cursor: pointer;
+  }
+  .logos{
+    .socialicons{
+      padding: 0 10px;
+      img{
+        width: 35px;
+        margin: 10px;
+      }
+    }
+  }
+  .content{
+    margin: 25px 0;
+    padding: 20px 0;
+    p{
+      text-align: left;
+      font: normal normal normal 18px/24px 'poppins';
+      letter-spacing: 0px;
+      color: #FFFFFF;
+      opacity: 1;
+    }
+    h6{
+      text-align: left;
+      font: normal normal normal 19px/26px 'poppins';
+      letter-spacing: 0px;
+      color: #FFFFFF;
+      opacity: 1;
+    }
+    ul{
+      padding: 0;
+      li{
+        list-style: none;
+        text-align: left;
+        font: normal normal normal 19px/26px 'poppins';
+        font-weight: 400;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+      }
+    }
+  }
+  .conditionspolicy {
+    a{
+      text-align: left;
+      margin: 10px 10px;
+      text-decoration: underline;
+      font: normal normal normal 13px/17px 'poppins';
+      letter-spacing: 0px;
+      color: #FFFFFF;
+      opacity: 1;
+    }
+  }
+  .rights{
+    p{
+      text-align: left;
+      font: normal normal normal 13px/17px 'poppins';
+      letter-spacing: 0px;
+      color: #FFFFFF;
+      opacity: 1;
+    }
+  }
+}
+
+
+
+@media (min-width: 360px) and (max-width: 600px) {
+  .footer {
+    padding: 2rem 0;
+    position: relative;
+    background: #1E66E4;
+    height: 100%;
+    a{
+      cursor: pointer;
+    }
+    .logos{
+      .socialicons{
+        padding: 0 10px;
+        img{
+          width: 25px;
+          margin: 5px;
+        }
+      }
+    }
+    .content{
+      margin: 15px 0;
+      padding: 10px 0;
+      p{
+        font: normal normal normal 15px/24px 'poppins';
+      }
+      h6{
+        font: normal normal normal 15px/26px 'poppins';
+      }
+      ul{
+        li{
+          font: normal normal normal 10px/26px 'poppins';
+        }
+      }
+    }
+  }
+}

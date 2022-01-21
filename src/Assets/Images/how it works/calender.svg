@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="513.341" height="513.341" viewBox="0 0 513.341 513.341">
+  <g id="calendar_month_black_24dp" transform="translate(147.539 0.448) rotate(22)" opacity="0.16">
+    <g id="Group_414" data-name="Group 414" transform="translate(0 -0.483)">
+      <rect id="Rectangle_210" data-name="Rectangle 210" width="394.335" height="394.335" fill="none"/>
+    </g>
+    <g id="Group_415" data-name="Group 415" transform="translate(49.231 32.821)">
+      <path id="Path_11696" data-name="Path 11696" d="M265.568,34.821h-16.41V2H216.336V34.821H85.052V2H52.231V34.821H35.821A32.672,32.672,0,0,0,3.164,67.642L3,297.388a32.812,32.812,0,0,0,32.821,32.821H265.568a32.917,32.917,0,0,0,32.821-32.821V67.642A32.917,32.917,0,0,0,265.568,34.821Zm0,262.568H35.821v-164.1H265.568Zm0-196.926H35.821V67.642H265.568Zm-164.1,98.463H68.642V166.1h32.821Zm65.642,0H134.284V166.1H167.1Zm65.642,0H199.926V166.1h32.821ZM101.463,264.568H68.642V231.747h32.821Zm65.642,0H134.284V231.747H167.1Zm65.642,0H199.926V231.747h32.821Z" transform="translate(-3 -2)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

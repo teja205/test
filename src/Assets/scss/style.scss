@@ -1,0 +1,17 @@
+/* Third party style */
+@import "~bootstrap/scss/bootstrap";
+@import "~slick-carousel/slick/slick.css"; 
+@import "~slick-carousel/slick/slick-theme.css";
+
+@import "./abstracts/mixins";
+@import "./abstracts/variables";
+@import "./abstracts/animation";
+
+/* project css */
+@import "Layout/header";
+@import "Layout/footer";
+
+@import "common";
+
+
+
